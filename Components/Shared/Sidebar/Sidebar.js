@@ -18,7 +18,7 @@ const Sidebar = () => {
   return (
     <aside className="">
       <h1 className="text-white font-bold text-lg lg:text-3xl font-Norican px-2 py-5">
-        mY<span className="font-Norican text-black/60">shoP</span>
+        Product<span className="font-Norican text-black/60">World</span>
       </h1>
       <ul className={`flex flex-col gap-5 mt-5`}>
         <li className={` px-2 h-12 `}>
